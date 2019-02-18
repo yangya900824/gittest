@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class RabbitApplication {
 	/**
-	 * 222
+	 * 2223333
 	 * @param args
 	 */
 	public static void main(String[] args) {
